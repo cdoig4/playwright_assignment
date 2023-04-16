@@ -1,0 +1,21 @@
+{
+  "name": "playwright_assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdoig4/playwright_assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdoig4/playwright_assignment/issues"
+  },
+  "homepage": "https://github.com/cdoig4/playwright_assignment#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.32.3"
+  }
+}
